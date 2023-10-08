@@ -1,0 +1,106 @@
+* {
+    background-color: rgb(242 243 246);
+    margin: 0px;
+    padding: 0px;
+}
+
+#fb {
+    display: inline-block;
+    height: 100px;
+    margin-top: 195px;
+    margin-left: 275px;
+}
+
+.fb {
+    letter-spacing: -2px;
+    color: rgb(22 122 241);
+    font-size: 4rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.connect {
+    letter-spacing: -1px;
+    width: 450px;
+    font-size: 1.6rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 10;
+}
+#container{
+    float: right;
+    margin-top: 95px;
+    margin-right: 265px;
+    background-color: white;
+    width: 400px;
+    height: 360px;
+   text-align: center;
+   border-radius: 10px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+input{
+    border: 1px solid gray;
+    background-color: white;
+    border-radius: 7px;
+    height: 45px;
+    width: 350px;
+    
+}
+
+form{
+    float: right;
+    margin-top: 20px;
+    margin-right: 10px;
+    background-color: white;
+
+}
+.forget{
+    padding-bottom: 15px;
+    display: inline-block;
+    background-color:white;
+}
+   
+.login{
+    
+    background-color: white;
+    padding: 15px;
+} 
+.button{
+    cursor: pointer;
+    font-weight:bolder;
+    color: white;
+    font-size: 23px;
+    background-color: rgb(22 122 241);
+}
+.create{
+    border-radius: 9px;
+    margin-top: 15px;
+    width: 240px;
+    background-color: rgb(96, 185, 7);
+    color: aliceblue;
+    font-weight: bolder;
+    font-size: large;
+
+}
+.celebrity{
+    float: right;
+    margin-top: 30px;
+    margin-right: 270px;
+    
+    
+}
+.celeb{
+    margin-top: 145px;
+    margin-left: 1010px;
+   
+}
+
+
+
+    
+
+
+
+
+
+
+    
